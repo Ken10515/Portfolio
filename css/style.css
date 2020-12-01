@@ -611,7 +611,7 @@ transform: translate3d(0, 5px, 0);
 .copyright {
   font-size: 10px;
   text-align: center;
-  color: #8c8c8c;
+  color: #ffffff;
 }
 
 #page-top {
@@ -700,6 +700,7 @@ transform: translate3d(0, 5px, 0);
   /* ヘッダー */
   .header {
     height: 100vh;
+    background-attachment: unset;
   }
 
   .logo-title {
