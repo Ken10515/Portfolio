@@ -388,6 +388,9 @@ border-radius: 10% 0 10% 0;
 }
 .about-body-yt{
   text-decoration: none;
+  color: #1d1d1d;
+}
+.red{
   color: #f181b4;
 }
 .about-body p:not(:last-child) {
