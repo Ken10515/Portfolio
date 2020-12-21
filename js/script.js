@@ -107,7 +107,7 @@ $(function(){
     var pagetop = $('#page-top');   
     pagetop.hide();
     $(window).scroll(function () {
-        if ($(this).scrollTop() > 2000) {  //100pxスクロールしたら表示
+        if ($(this).scrollTop() > 1500) {  //100pxスクロールしたら表示
             pagetop.fadeIn();
         } else {
             pagetop.fadeOut();
